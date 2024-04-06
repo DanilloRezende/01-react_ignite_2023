@@ -1,3 +1,4 @@
+/* eslint-disable react/jsx-key */
 import { Post } from './components/Post'
 import { Header } from './components/Header';
 import './global.css';
